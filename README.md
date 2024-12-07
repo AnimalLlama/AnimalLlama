@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alman Rashid.
+- 👋 Hi, I’m @AnimaLlama
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning basics of JAVASCRIPT
 - 💞️ I’m looking to collaborate on a website to sell gaming accounts
